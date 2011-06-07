@@ -1,0 +1,15 @@
+$project_name ドキュメント
+====================================
+
+コンテンツ:
+
+.. toctree::
+   :maxdepth: 2
+
+
+索引
+====
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
